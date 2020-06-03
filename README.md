@@ -35,7 +35,7 @@ Attributes for both student-mat.csv (Math course) and student-por.csv (Portugues
 - health - current health status (numeric: from 1 - very bad to 5 - very good)
 - absences - number of school absences (numeric: from 0 to 93)
 
-### these grades are related with the course subject, Math or Portuguese:
+#### These grades are related with the course subject, Math or Portuguese:
 31 G1 - first period grade (numeric: from 0 to 20)
 31 G2 - second period grade (numeric: from 0 to 20)
 32 G3 - final grade (numeric: from 0 to 20, output target)
@@ -44,5 +44,5 @@ Additional note: there are several (382) students that belong to both datasets .
 These students can be identified by searching for identical attributes
 that characterize each student, as shown in the annexed R file.
 
-### We've taken:
+#### We've taken:
 In this model we've only taken the math class' data
